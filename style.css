@@ -1,0 +1,132 @@
+body{
+    background-color: antiquewhite;
+
+}
+
+img{ 
+     margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 2%;
+}
+
+p{ 
+    
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+h1{
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 1%;
+}
+
+h2{   
+   margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 2%;
+}
+
+h3{ 
+     margin-left: 10%;
+  margin-right: 10%;
+}
+
+li{
+  list-style-type:none ;
+}
+
+
+
+
+
+
+
+.bigger2{
+    width: 25%;
+    margin: 1% 2% 0% 5%;
+}
+
+.second{
+    width: 25%;
+    margin: 2% 0% 5% 5%;
+}
+
+.third{
+    width: 25%;
+    margin: 2% 0% 5% 5%;
+}
+
+
+fieldset {
+    background-color: #eeeeee;
+  }
+  
+  legend {
+    background-color: gray;
+    color: white;
+    padding: 5px 10px;
+  }
+  
+  input {
+    margin: 5px;
+  
+  }
+
+
+
+
+  .dark-mode{
+      background-color:rgb(44, 42, 42);
+        color:bisque;
+  }
+
+
+    .small-text{
+        font-size: 60%;
+    
+  }
+
+    .medium-text{
+        font-size: 120%;
+  }
+
+
+    .large-text{
+        font-size: 300%;
+}
+
+
+
+
+.container {
+  position: relative;
+  width: 50%;
+}
+
+
+.container img {
+  width: 100%;
+
+}
+
+.container .btn {
+  position: absolute;
+  top: 87%;
+  left: 20%;
+ 
+  background-color: rgb(252, 123, 4);
+  color: white;
+  font-size: 25px;
+  padding: 3px 180px;
+  border: none;
+  border-radius: 5px;
+}
+
+
+.video-area{
+  text-align: center;
+}
+
+
+
